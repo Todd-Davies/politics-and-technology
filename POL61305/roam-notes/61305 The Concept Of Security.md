@@ -1,0 +1,81 @@
+- Part of week 1 of #POL61305 by David A Baldwin.
+- Intro:
+    - Many people define security by proposing measures on human rights, economics, environment, epidemics, crime, etc and linking them to normative values.
+    - This article is interested in concepts rather than normative and empirical concerns.
+    - This is important because:
+        - It allows us to talk concretely about security & ensures we're on the same page
+        - It promotes rational policy analysis by facilitating comparison between policies
+        - It establishes common ground between scholars
+    - Though the discussion is centered on nation states, it is applicable to any level of analysis; individual, family, society, state, international or global.
+- 1. Conceptual analysis
+    - Criteria for a good definition are set out (apparently thought up by Oppenheim)
+    - Understanding the concept of security is a different exercise from specifying the conditions under which it may be attained.
+- 2. Security as a neglected concept
+    - Since an article by Wolfer in 1952, nobody has really tried to conceptually analyse 'security', though there were attempts after the cold war.
+    - But security is an important concept, it is used to justify suspending civil liberties, making war, etc. Important stuff!
+    - Five things that make security hard to define, none are convincing:
+        - Security is a difficult concept
+        - It overlaps with the idea of power
+        - There is a lack of interest by various critics of Realism
+        - Security scholars were too busy keeping up with technology and policy developments
+        - The ambiguity of 'national security' is useful to policy makers
+    - Most people involved with security studies were actually studying military force, which is a subset. Especially in the cold war.
+- 3. Security as a contested concept
+    - A contested concept is one that is so value-laden that no amount of argument or evidence can ever lead to agreement on a single version of the 'correct' or 'standard' use.
+    - Though some would say that defining security is therefore pointless, it is still possible to rank definitions as better or worse, even if no perfect one can be found.
+    - You can say security is an 'appraisive concept' which means that it signifies some kind of valued achievement
+    - For some, security isn't apprasive, since if a state is dissatisfied with the status quo, it may not be interested in its current security and may instead be interested in acquiring other values
+    - Nobody really debates security as a concept
+- 4. Specifying the security problematique
+    - Security is 'a low probability of damage to acquired values'
+    - Security for whom?
+        - A concept of security that fails to specify a referent object makes little sense (e.g. the individual, state, international system, etc)
+        - The choice depends on the particular research question.
+    - Security for which values?
+        - Can be split into subjective (peace of mind, absence of fear, etc) and objective dimensions (Physical safety, economic welfare, autonomy, psychological well-being, political independence, territorial integrity, the ability to maintain economic relations, etc)
+    - How much security?
+        - Some view security as binary (secure or insecure), while others view it as a continuum.
+        - Scarce resources must be allocated among competing objectives, none of which are completely attainable. You can't escape the question 'how much is enough'.
+    - From what threats?
+        - Failing to specify the threat (e.g. instead of the 'communist threat', is it specifically economic, military or ideological, or all three?) makes it harder to have a rational debate about the threat.
+    - By what means?
+        - Security can be pursued by a wide variety of means.
+        - It's important to attend to the framing; some people think of security as a purely military domain, but this can lead to confusion, or even prejudice discussion in favour of military solutions
+    - At what cost?
+        - Cost is the sacrifice of other goals that could have been pursued with the resources devoted to security.
+        - Attaining security almost always incurs a cost; there's no such thing as a free lunch.
+    - In what time period?
+        - Security policies aimed at the long run differ from those aimed at the short run.
+        - Policies aimed at different time periods can conflict.
+- 5. The value of security
+    - Though security is obviously valued, it is not the sole value of actors. As such, it is important to determine the importance of security in relation to other values in order to be able to make trade-offs.
+    - The prime value approach
+        - Asks what life would be like without security.
+        - #ThomasHobbes says that life would be 'solitary, poore, nasty, brutish and short', and has led many people to think that this means security is a prime goal. The logic is that security underlies other values like prosperity, freedom, etc.
+        - This argument can be applied to other things like breathable air, or food. As such, the value of something is not an inherent quality of the good, but rather a result of external social conditions (like supply and demand).
+        - To sum up, the argument is flawed because it gives no reason to limit the allocation of resources to security, and it fails to line up with what people actually do (e.g. not allocate all resources to security, such as by funding arts projects).
+    - The core value approach
+        - Security is seen as one of several important values.
+        - You still need to justify some values as 'core values' and others as 'non-core values', and then decide how to allocate resources between them.
+    - The marginal value approach
+        - Provides a solution to the resource allocation problem.
+        - It is rooted in the assumption that the law of diminishing marginal utility is applicable to security. I.e. the next additional unit is worth less than the previous one.
+        - Rational policy makers will allocate resources to security only as long as the marginal return is greater for security than for other uses of the resources.
+- 6. Security and neorealism
+    - #Neorealism or structural realism is a theory of international relations that says power is the most important factor in international relations.
+    - The equation of security with survival provides no answer to the question "security of which values?".
+    - If security is defined as the survival of the state, then what about if you define the state by which functions it performs? In that case, survival of values becomes very important.
+    - Completely assured survival is a state that can be approximated, but never attained.
+    - Do neorealists consider security as a zero sum game? If so, then 'winning' would involve being surrounded by insecure states. Are these states then good neighbours?
+    - The security dilemma is when efforts to increase the security of your state mean that other states are less secure.
+- 7. New security concepts
+    - Security is multidimensional
+        - Security: Economic, environmental, ideological, social, military, etc.
+        - Power: voting, military, economic, persuasive, etc
+        - Levels: nation state, higher or lower...
+    - Perhaps the world needs a theoretical breakthrough on the concept of security that transcends 'armed territorial security' and instead encompasses 'the security of people in their homes, jobs and communities', in light of the cold war having ended.
+        - Normative breakthrough encompassing a moral community
+        - Empirical breakthrough encompassing a recognition of globalization and increased interdependence
+        - Political breakthrough encompassing the will to pursue an expanded security agenda.
+- 8. Conclusion
+    - Baldwin looks at his paper and shows how it fits the criteria he outlined at the start from Oppenheimer.

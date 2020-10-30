@@ -1,0 +1,114 @@
+- Introduction
+    - First, definitions:
+        - **Collective good**: "the common good refers to either what is shared and beneficial for all or most members of a given community, or alternatively, what is achieved by citizenship, collective action, and active participation in the realm of politics and public service" (wikipedia)
+        - **Commodity**: "a commodity is an economic good or service that has full or substantial fungibility: that is, the market treats instances of the good as equivalent or nearly so with no regard to who produced them." (wikipedia)
+    - The paper seems to define security in a physical, militaristic sense (as opposed to a broader sense, outlined in #[[61305 The Concept Of Security]])
+    - The paper looks at the shift from states to markets for the provision of security in Europe/US, in light of the fact that traditionally, states have kept a monopolization on the legal use of violence.
+    - There are lots of private security guards and military contractors in use these days.
+    - This article focuses on the theoretical implications of this, rather than doing an empirical analysis.
+    - Many previous studies didn't consider where the 'good' of security came from, only its concept and implementation. Accountability and transparency are affected by whether it's a public or privately supplied good.
+- The Concept of Security
+    - Up to the 1980's, the concept of security was primarily military based. This became harmful and caused states to ignore other potentially more harmful dangers.
+    - At the end of the cold war, the consensus was to broaden the idea of security to include non-state actors (e.g. social groups, individuals) and to include non-military collective threats such as climate change and infectious disease.
+    - The answers to the seven questions posed by David Baldwin in #[[61305 The Concept Of Security]] are linked, e.g. if the scope of security changes from the nation state to the individual, then other aspects like the timespan may change too.
+    - What is 'being secure'?
+        - **Preventative security**
+            - Security is the absence of threat; security is only possible if the threat is non-existent or diminished.
+            - Applies to military threats, natural disasters, etc.
+            - Tries to eliminate the causes of the threat, e.g. by political means.
+            - Examples include mass culling of livestock to prevent animal flu, or establishing justice systems to preempt conflict
+        - **Reactive security**
+            - Threats are within the realm of possibility; rather than trying to eliminate them, just hold them off and stop them from becoming a reality.
+            - Usually this involves deterrence. 
+            - This applies to human but not natural threats, since it requires a comprehension of the deterrent.
+            - Can work on a variety of levels, from individuals getting a dog to prevent burglars, to nations joining military alliances or obtaining nuclear weapons.
+        - **Protection security**
+            - Tries to contain the consequences arising from a threat.
+            - Is also reactive, since the threat first becomes a reality, then an attempt is made to contain it.
+            - This is similar to the reactive one, but more offensive. For example
+                - Individual protection:
+                    - Defensive: armoured vehicle
+                    - Offensive: Bodyguards shooting back at an attacker
+                - Airspace protection:
+                    - Defensive: Missile defense system
+                    - Offensive: Fighter jets on standby
+                - Border control:
+                    - Defensive: Walls
+                    - Offensive: Rapid reaction force
+- Collective and private goods
+    - Two features characterize a pure **[[Public good]]** (or collective good):
+        - **Non-excludable** (everybody gets it, they're free for the taking)
+            - E.g. fresh air
+        - **Non-rival in consumption** (the goods aren't diminished by consumption)
+            - E.g. a lighthouse, it doesn't matter how many people get the benefit, it is not used up
+    - Few goods meeting these two criteria exist. Examples include traffic lights and environmental protection.
+    - **[[Private good]]**s are both excludable and rival (food, toys, cars, etc)
+    - **[[Club good]]**s (or toll goods) are excludable but non-rival (cable television, or information databases)
+    - **[[Common good]]**s (or pool goods) are rival but non-excludable (water, fishing, hunting)
+    - Don't confuse public and private goods with the level at which they are generated (in the public sector, or private sector). E.g. state can produce a private good (such as electricity, which costs money and can be denied to people).
+    - Public goods theory tries to examine which kinds of actors supply which kinds of goods. E.g. the commercial sector doesn't supply collective goods because nobody would pay for them.
+        - Therefore states and public providers, must supply these goods, because they can overcome the free-rider problem through taxation.
+    - Whether security is defined as a a public or private good depends on how you define being secure.
+        - If you use the preventative security definition, the absence of threat, then it's a public good.
+        - If you use the deterrence definition, it's a club good.
+        - If you use the protection definition, then it's a private good
+- The Commodification of Security  (page 387)
+    - What happens if security becomes something that can be sold for profit by the private sector, and thus becomes a commodified, private good?
+    - The meaning of security shifts from 'preventative security' to 'deterrence security' or 'protection security'
+    - Lets look at the points from David Baldwin in [[61305 The Concept Of Security]] under a model of commodified security
+        - Security for whom?
+            - Security shifts from a collective to an individual level
+            - Private security may be more effective than public security due to its individual nature
+            - A redistribution of funds towards private security could decrease overall security; private companies may be happy with this
+            - More private security militarises the public, and can increase the spread of arms, which can promote violence.
+            - The number of private security guards was at 1m in 2004, compared to 1.5m military and 0.6m police.
+            - The UK, Germany and France halved their national defense spending, but quadrupled their private security spending
+        - Security for what kinds of values?
+            - Private security companies promote individual over collective values; individuality and difference.
+            - Collective security supplied by the state is oriented around inclusiveness and equality.
+            - There has been a perception of risks shifting from collective risks (with the cold war) to individual risks (from terrorism and crime).
+        - How much security is necessary?
+            - For-profit firms have an interest to overstate the need for security
+            - States shape individual and public threat perception, but don't financially benefit from it. If they do gain, it's probably politically in the form of bolstering collective security (e.g. [[Falklands War]] or the [[War On Terror]])
+            - Governments' outsourcing of security has given more money to private security companies, enabling them to better set the agenda, shape security policy and manipulate public threat assessment (creating demand for themselves).
+        - Security from what kind of threats?
+            - Private security is more likely to focus on individual threats rather than collective threats
+            - [[9/11]] raised the security priorities across the corporate sector, but the threat of terrorism is low; in 2001, 4548 US citizens died in terror attacks, but 42643 died in car accidents.
+            - Perceived threats shifted from collective threats of military attack to transnational and individual risks, such as terrorism, transnational crime, illicit arms trafficking, refugee migration, and environmental damage.
+        - Security by what means?
+            - Profit oriented security companies are more likely to offer deterrence o protection than prevention of threats, and are likely to assess risks in terms of cost and consequences as opposed to causes.
+            - Private companies rarely engage in prevention because it is difficult to prove that their efforts were successful, as opposed to their efforts applying to everybody equally due to having created a public good.
+            - In contrast, deterrence or protection is easier to observe and measure.
+            - Individuals are more willing to spend money on the protection of their lives and property than improving their situation (hence are risk averse). This matches the characteristics of the private security market.
+        - Security at what cost?
+            - A key argument in favour of privatization has been that markets can supply security more cost efficiently.
+                - When the market generates economies of scale this holds true
+                - But when there is a lack of competition, or where private companies shirk their responsibilities due to a lack of oversight, then the cost increases
+            - The cost to private customers might be higher compared to publicly security funded through taxation because:
+                - Private individuals lack the expertise to accurately assess their level of risk
+                - Individual protection is rival in consumption; everybody must protect themeselves
+                - Personally tailored security means customers can't share the cost
+            - National defence procurement has been rising (due to many factors, but a major one is increasing complexity of projects e.g. fighter planes). As such, there has been increasing pressure to generate cost savings through privatization and outsourcing
+        - Security in what time period?
+            - The market offers only short term security because it fails to address the causes of a threat.
+            - Advanced threats such as terrorism or crime are able to adapt to individualized security measures by finding ways of undermining them.
+                - Which is an advantage for the market, since security measures must be continually renewed and upgraded, generating profit.
+            - Thus, excludable security creates constant demand
+    - 
+- Security, the State and the Market
+    - Growing spending on commercial security services goes hand in hand with decreased trust in the public security provision.
+    - States buy private solutions themselves as they outsource to try and get greater cost-efficiency. They rely on private firms for threat analysis and policy implementation.
+    - Multinational companies are operating in more volatile countries as they search for cheaper labour and more resources. This causes them to hire private security.
+    - Western NGOs are replacing state-aid in developing nations, and are thus hiring private security to protect themselves in these regions where public security would have previously been used
+    - The perceived increase in non-state threats such as terrorism or crime has meant that people think security is better achieved by the individual rather than collectively. This ineffective collective deterrence causes police and security forces to appear overstretched.
+    - The market expands to fill the gaps left by the public sector, and thus causes further contraction of the public sector
+    - During the 19th and first half of the 20th centuries, the state was seen as the maker of advanced new (military) technologies, but now private companies are.
+    - There are examples in the paper of commercial companies deploying their solutions for the US military (p 398), from banks to Wal-Mart
+    - Combat is the last thing that is exclusively in the realm of the public sector
+    - [[Peter Singer]] says that "Client dependency grows each time they outsource or privatize functions".
+- Conclusion
+    - The state's monopoly on violence, and the public good nature of security have been an assumption of security in the past, and are now being questioned.
+    - Outsourcing of security responsibility by states is increasing, and increasing private demand fuels a boom in the private security sector.
+    - Many think that markets are more responsive to needs, and are more cost efficient. 
+    - However they are also apt to turn security into a commodity, aiming at deterrence and protection rather than prevention, which means it's no-longer a public good.
+    - Markets focus on the short term, and could end up costing more in the longer term due to addressing the wrong threats.

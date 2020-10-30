@@ -1,0 +1,33 @@
+% Make LaTeX pretty with better kerning etc
+\usepackage{microtype}
+% For URLs
+\PassOptionsToPackage{hyphens}{url}\usepackage{hyperref}
+
+% For quotes
+\usepackage{csquotes}
+
+% For figure placement
+\usepackage{float}
+
+% Used to check for unused references
+%\usepackage{refcheck}
+
+% For line spacing
+\usepackage{setspace}
+
+% For graphs
+\usepackage{pgfplots}
+\pgfplotsset{compat=newest}
+
+\usepackage[round, sort]{natbib}
+\usepackage{url}
+\DeclareRobustCommand{\firstsecond}[2]{#1}
+\usepackage{caption}
+
+\author{Todd Davies - 03729787}
+
+\newcommand{\Title}{Environmental governance in the corporate sector
+of the United States since 2017}
+
+\title{\Title}
+\subtitle{POL23300 Climate Politics: International, National and Local Dimensions\\Words: \input{totalwords.tex}}

@@ -1,0 +1,54 @@
+\documentclass[dvipsnames]{minimal}
+
+\usepackage{tikz}
+\usepackage[pdftex,active,tightpage]{preview}
+\PreviewEnvironment{tikzpicture}
+
+\usetikzlibrary{matrix,calc}
+
+\tikzset{
+  mymx/.style={
+    matrix of nodes, % this option is available after loading the matrix library
+    nodes=block,
+    row sep=4cm, % the amount of space separating the nodes vertically
+    column sep=5cm, % ^same, but horizontally
+  },
+  block/.style={
+    rectangle,
+    draw,
+    fill=blue!20,
+    rounded corners,
+    text width=6em,
+    align=center,
+    minimum height=4em
+  },
+  lbl/.style={
+    above,
+    sloped, % make the text follow the path
+    execute at begin node={$}, % begin math mode, for the minus signs etc.
+    execute at end node={$}, % end math mode
+  }
+}
+\begin{document}
+\begin{tikzpicture}
+  \matrix[mymx] (mx) {
+    Construct A & Construct B \\
+    Independent Variable & Dependent Variable \\
+  };
+  \path[-latex,every node/.style=lbl]
+    (mx-1-1) edge node {Proposition}                                                        (mx-1-2)
+    (mx-1-1) edge node {Construct~validity}                                                 (mx-2-1)
+    (mx-1-2) edge node {Construct~validity}                                                 (mx-2-2)
+    (mx-2-1) edge node {}   (mx-2-2)
+    ($(mx-2-1)!.5!(mx-2-2)-(0,0.5)$) node {Hypothesis}
+    ($(mx-2-1)!.5!(mx-2-2)-(0,1)$) node {Internal~validity}
+    ($(mx-2-1)!.5!(mx-2-2)-(0,1.5)$) node {Statistical~conclusion~validity}
+    ($(mx-2-1)!.5!(mx-2-2)$) edge node {External~validity} ($(mx-1-1)!.5!(mx-1-2)$)
+    ;
+  % to put a node in the middle of something, using the calc library:
+  \begin{scope}[every node/.style={execute at begin node=\strut}]
+    \node[anchor=east] at ($(mx-1-1.west)-(1,0)$) {Theoretical plane};
+    \node[anchor=east] at ($(mx-2-1.west)-(1,0)$) {Empirical plane};
+  \end{scope}
+\end{tikzpicture}
+\end{document}

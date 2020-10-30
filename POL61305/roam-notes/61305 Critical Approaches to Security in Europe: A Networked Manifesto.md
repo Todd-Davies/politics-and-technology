@@ -1,0 +1,105 @@
+- Week 1 of the #POL61305 course, by [[C.A.S.E Collective]].
+    CASE stands for Critical Approaches to Security in Europe.
+- The article assesses the critical views of European security.
+- Over the past two decades, European security studies split off from the main American-dominated branch. 
+- Organised as:
+    - Literature review of the Copenhagen, Aberystwyth and Paris schools of security 
+    - What their main contributions are
+    - Discussion of new fields arising from these
+    - How academic critique can be turned into engagement in international politics. Call to action for academics to re-engage in politics.
+- **Critical Approaches to Security: A History of Encounters**
+    - 'Critical' means acknowledging that academic research has implications on the actual policies governments choose, rather than treating research as its own thing.
+    - The Aberystwyth and Copenhagen schools both have strong roots in IR, political theory and 'repositioning' in relation to peace research and security studies.
+    - The Paris school is rooted in political theory, the sociology of migration and policing in Europe, as opposed to IR.
+    - One innovative work from the COPRI (Copenhagen Peace Research Institute) was securitization theory, which defines security as a speech act. It says that security issues are the political outcomes of the illocutionary force of security agents and that one of the most effective ways of analysing security issues is through the discursive practices in different security sectors.
+    - CSS (Critical Security Studies) tries to make the largely statist and military-oriented assumptions of traditional security studies explicit, in order to try and open the field up to greater theoretical scrutiny and allow it to address a broader range of issues.
+    - The Aberystwyth school's approach is to say that realism's military focused, state centered and zero sum understanding of security should be replaced by a collaborative project that would have human emancipation as its central concern.
+    - The Paris school focused on security professionals, the governmental rationality of security, and the political structuring effects of security technology and knowledge.
+    - Though there is a tendency to strengthen the identity of the schools and make them discrete, a more context oriented reading of their work shows that they have lots in common. 
+    - Late Institutionalizations
+        - The paper talks about the field broaderning to include southern, central and northern european states, and how the language barrier must be circumvented.
+- **The Politics of Security**
+    - The Uses of Identity: Processes and Implications
+        - The idea of [[securitization]] describes the process where the socially and politically successful "speech act" of labelling an issue as a "security issue" removes it from the realm of normal day to day politics, and makes it into an "existential threat", justifying extreme measures.
+        - These processes have different 'referent objects' depending on whether they belong to an economic, environmental, political, military of societal sphere.
+        - There is a general claim that in principle, anything can be 'securitized'.
+        - Only if the claim to treat something with exceptional measures is actually accepted by the relevant audience (securitizing move), does something become securitzed.
+        - Example: security rhetoric of the economy is jobs. Security rhetoric of social security is national identity. Powerful securitized issue is migration, which merges these two.
+        - Macro dynamics are identified, and split into global, interregional, regional and domestic levels. The most important level is defined by the polarity structure of regional powers, which only impacts the security dynamics within a region, and can be unipolar, bipolar or multipolar.
+    - Unmaking Security: Desecuritization and Emancipation
+        - The securitization of identity has shown that academic discourse has political effects.
+        - Securitization opens up the political scene to extreme groups (e.g. right wing people, who are now have their migration claims legitimised), but also restructures societies around a model of emergency or exception.
+        - Securitization is defined in opposition to normal politics, as a politics of exception or abnormal politicization, and unmaking it implies going back to normal politics.
+        - Emancipation is defined as a normative engagement with normal (e.g. not securitized) politics.
+
+            - I guess that means freedom from securitization?
+        - The definition of emancipation is important, since it defines where we should aim when we go back to normality, since normality is part of the definition.
+    - Mapping the Field of the (In)security Professionals
+        - The Paris school says that two factors explain why security is being reshaped. 
+            - Desecuritization doesn't always reduce insecurity or increase confidence (e.g. by reassuring discourse, or protection measures such as video cameras).
+            - The emerging consolidation of professional networks of security agencies that try to monopolize the truth about danger and unease through the power-knowledge nexus.
+        - 'Security points' is the capacity to control borders, manage threats, define identities, etc. This does three things:
+            - Allows government to use security as a 'technique'
+            - Diverts away from investigating the intentions behind the use of power
+            - Practices, audiences and contexts enable and constrain the way in which governance can take place
+        - Security includes the right of the use of force, but also the discursive ability to  define who the enemy is.
+        - Four main traits mark out the security field (the network of objective relations between positions) of security:
+            - The social space of the professionals of security functions, creating homogeneity of interests
+            - Actors don't always share the same means or pursue similar ends. Some actors are offensive, some are defensive, some don't know they're playing a game.
+            - Two more I don't get??? (p 458 (book) / p16 (pdf))
+        - The importance of security agencies changes with the contemporary issues; border guards and immigration officers suddenly became more important with the advent of crises around migration.
+- **New Research Direction**
+    - Four new directions:
+        - The implications of expanding security to other fields (security traps)
+        - The question of exceptionalism
+        - Risk analysis
+        - The politics of belonging
+    - Tackling the security traps
+        - The idea of widening the security field to include other fields (i.e. securitizing them) is that you encourage politicians to tackle them in a positive way.
+        - The 'security trap' says that one cannot necessarily establish a feeling of security (freedom from threat, in this case) by simply securitizing more issues or by securitizing issues more.
+        - If an issue is securitized, then perhaps a few security organizations will have a monopoly over the choosing and implementation of solutions and that will lead to worse outcomes.
+        - The more one tries to securitize social phenomena in order to ensure 'security', the more one creates a feeling of insecurity. (Think of the military patrolling the streets after a terrorist attack, which may induce a feeling of panic).
+        - The politics of maximal security are also the ones of maximal anxiety.
+        - By analysing how an issue is framed in terms of security, a researcher may inadvertently securitize the issue, and contribute to this problem.
+    - Peace and Security
+        - Peace and security have come to mean two side of the same coin, though they were initially different terms (p19)
+        - Peace research has been based on the idea that the world is manmade and thus changeable.
+        - Peace researchers expanded the definition of violence to include structural forms of violence; everything that stops somebody from reaching their potential.
+    - Security and Development
+        - The security-development nexus represents a transition from a narrow and instrumental focus on national/state security to the protection of human life globally.
+        - This can be bad, because it can cause conflict to be seen as a predatory activity on behalf of elites rather than arising from political challenges, and so can shift the solution space from political solutions to security solutions.
+        - The solution could be to look at issues in this space in a political manner, and avoid depoliticizing security issues.
+    - Privatization of Security
+        - Public security agencies are increasingly unable to reassure the public in the face of more threats, and so private companies are moving in.
+        - The supply of violence (private security companies) creates its own demand through securitization.
+    - Security and Exceptionalism
+        - Exceptionalists declare exceptional conditions (e.g. a state of emergency) in order to give legitimate authority to contentious politics and practices.
+        - Policymakers may claim that exceptional times call for exceptional measures but this isn't necessarily true.
+            - Necessity is a political claim, not an existential condition
+            - The authorization of exceptionalism resides not solely with the politician
+    - Security, Risk and Risk Management
+        - Rationalists say that the concept of risk is about decision making under uncertainty.
+        - Risk analysis works for decision making by evaluating future actions in terms of risk.
+        - Inside International Relations, 'reflexive security' is the discipline of focusing on the management of the new state-transcending risks of [[Risk Society]] by Beck
+        - Risk spreading is the wide variety of efforts to conceive and address social problems in terms of risk.
+        - Risk embracing is the strategy that shifts the risk responsibility from the institutions to the individuals and corporations.
+    - The Politics of Belonging
+        - Identity is the politics of belonging
+        - Two processes in identity: objectivication (identity cards, passports, etc) and subhectivication (individual/group identities)
+    - Collective Memory
+        - -
+    - Nationalism, Citizenship, Diasporas, Transnational Social Movements
+        - -
+    - Revisiting the European Identity
+        - -
+- The Collective Intellectual: Being Relevant
+    - Security studies and security policy making overlap, and together they create knowledge about security.
+    - From Being Relevant to Becoming Relevant
+        - -
+    - Dilemmas of Theory and Practice
+        - Three ways for desecuritiazitation to happen:
+            - 1) Stop speaking about a threat and hope it goes off the agenda
+            - 2) Divert attention to another threat
+            - 3) Contribute to a different interpretation of the threat that doesn't involve it being securitized
+    - Against Research Without Politics
+        - -

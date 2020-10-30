@@ -1,0 +1,32 @@
+\documentclass[fontsize=11.5pt,parskip=half-,parskip=relative]{scrartcl}
+\usepackage{fancyhdr}
+
+\usepackage {mathptmx}
+\usepackage [scaled = 0.9] {helvet}
+\usepackage {courier}
+\usepackage [T1] {fontenc}
+
+\input{meta.tex}
+
+% Gives us bigger margins on the right (and smaller on the left) for the margin
+% paragraphs
+\usepackage[left=1.5cm,
+            top=2cm,
+            right=1.5cm,
+            bottom=2cm]{geometry}
+
+\RedeclareSectionCommand[beforeskip=0.5ex,afterskip=0.5ex]{section}
+
+\begin{document}
+
+\rhead{\title}
+
+\maketitle
+
+\pagestyle{empty}
+
+%\tableofcontents
+
+\input{content.tex}
+
+\end{document}

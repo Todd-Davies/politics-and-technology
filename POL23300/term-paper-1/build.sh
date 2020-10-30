@@ -1,0 +1,1 @@
+pdflatex paper.tex && bibtex paper.aux && pdflatex formatted.tex && bibtex formatted.aux && pdflatex paper.tex && bibtex paper.aux && pdflatex formatted.tex && bibtex formatted.aux

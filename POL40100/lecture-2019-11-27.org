@@ -1,0 +1,87 @@
+* Agenda
+** Why are political parties important?
+Parties are crucial, key actors in parlimentary democracies. This is
+because they're key actors in parliament and because they are crucial
+for governments; you cannot be a leader of the country if you're not
+in a party in a parlimentary democracy.
+
+In presidential systems, presidents are almost always part of a party
+too.
+
+Autocratic systems (e.g. monarchies) often have parties, but often not
+fair competition between parties.
+
+Things that make a party:
+- A party has general intrests for broad sections of society, maybe
+  even the majority.
+- Competition with other parties
+
+Differentiation between vote seeking and office seeking: parties can
+try to seek votes, or to try to get into Government. Usually, these
+are aligned, but that's not necessarily true. E.g. if you're a party
+on the poles of the political spectrum, it might be a good idea to
+polarise on an election campaign to gain more votes.
+
+Differences from 'associations':
+- Community of people who *take part in elections*
+- Aggregate *wide ranging* public interests, not just intrests of members
+
+Political parties fulfill important functions in the political system:
+- Coordination within government, state levels, within society,
+  between NGO's, between Govt and society, etc)
+- Contesting elections
+- Recruitement
+- Representation
+- Intrest articulation, aggregation, mobilisation and integration, rule making)
+- Legitimation of the political system
+
+** How do political parties work?
+Following aspects of their functionality are particularly important:
+- Membership (number esp. in relation to other public & social
+  organisations)
+- Public regulations (party laws, rights, protections, obligations,
+  internal democracy)
+- Finance (fundrasing, member contributions, free airtime, staff
+  payrole, etc)
+
+** What is the role of the electoral system?
+Two ways that electoral systems can work:
+- Majority election system
+  - Only one MP is elected per consistuency, first past the post
+- Proportional representation system
+  - Several MP's are to be elected per constituency
+  - Every party presents a list of candidates and voters select a
+    list.
+  - Parties are assigned seats proportionally to how many votes they
+    get.
+
+** Party systems in comparison
+"Party systems are sets of parties that compete and cooperate with the
+aim of increasing their power in controlling government" - Caramani 2017
+
+Criteria to distinguish party systems:
+- The effective number of parties (coalition, blocking, extortion etc)
+- Dominance of the major parties
+- Content focus (and dominant cleavages)
+- Conflict degree (centrifugal or centripetal orientation)
+- Segmentation
+- Degree of change (volatility, stability of parties)
+
+# Definition of Cleavage
+Cleavage is the division of voters into voting blocks. If you imagine
+parties to be on a horizontal line on an issue, cleavage is a vertical
+line that divides parties into supporters and oppononts on a certain
+issue.
+
+Examples include owner vs worker, church vs state, urban vs rural,
+center vs periphery
+
+# Definition of The Party State
+The party state is a rationalized manifestation of plebiscitary
+democracy, a surrogate of direct democracy in the modern territorial
+state.
+
+
+
+** Policy effects of parties in government
+** The case of fracking in Germany

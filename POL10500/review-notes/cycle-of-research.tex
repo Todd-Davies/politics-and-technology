@@ -1,0 +1,24 @@
+\documentclass[dvipsnames]{minimal}
+
+\usepackage{tikz}
+\usepackage[pdftex,active,tightpage]{preview}
+\PreviewEnvironment{tikzpicture}
+
+\usetikzlibrary{arrows, automata}
+
+\author{Todd Davies}
+\date{\today}
+
+\begin{document}
+
+\begin{center}
+  \begin{tikzpicture}[node distance=6cm]
+    \node[state]  (Theory)      []                 {Theory};
+    \node[state]  (Observation) [right of=Theory]  {Observation};
+    
+    \path[->]          (Theory) edge [bend left, below]       node        {Deduction} (Observation);
+    \path[->]          (Observation) edge [bend left, above] node        {Induction} (Theory);
+  \end{tikzpicture}
+\end{center}
+
+\end{document}

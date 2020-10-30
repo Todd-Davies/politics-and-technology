@@ -1,0 +1,26 @@
+\documentclass[parskip=half-,parskip=relative]{scrartcl}
+\usepackage{helvet}
+\usepackage{fancyhdr}
+\renewcommand{\familydefault}{\sfdefault}
+
+\input{meta.tex}
+
+% Gives us bigger margins on the right (and smaller on the left) for the margin
+% paragraphs
+\usepackage[left=2cm,
+            top=4cm,
+            right=2cm,
+            bottom=4cm]{geometry}
+
+\begin{document}
+
+\rhead{\title}
+
+\maketitle
+\thispagestyle{empty}
+
+\tableofcontents
+
+\input{contents.tex}
+
+\end{document}

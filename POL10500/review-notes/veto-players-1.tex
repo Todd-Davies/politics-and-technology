@@ -1,0 +1,22 @@
+\documentclass[dvipsnames]{minimal}
+
+\usepackage{tikz}
+\usepackage[pdftex,active,tightpage]{preview}
+\PreviewEnvironment{tikzpicture}
+
+\usetikzlibrary{shapes,backgrounds}
+\usetikzlibrary{matrix,calc}
+
+\begin{document}
+\def\firstcircle{(0,0) circle (1.5cm)}
+\def\secondcircle{(60:2cm) circle (1.5cm)}
+\def\thirdcircle{(0:2cm) circle (1.5cm)}
+\begin{tikzpicture}
+    \begin{scope}[shift={(3cm,-5cm)}, fill opacity=0.5]
+        \fill[red] \firstcircle;
+        \fill[blue] \thirdcircle;
+        \draw \firstcircle node {$A$};
+        \draw \thirdcircle node {$B$};
+    \end{scope}
+  \end{tikzpicture}
+\end{document}

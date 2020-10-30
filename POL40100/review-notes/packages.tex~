@@ -1,0 +1,26 @@
+% For coloured tables
+\usepackage{color, colortbl}
+% Images
+\usepackage{graphicx}
+% For better centered tables
+\usepackage{array}
+% For fancier figures
+\usepackage{caption}
+\usepackage{subcaption}
+% For float placement
+\usepackage{float}
+% Better tables
+\usepackage{booktabs}
+% For splitting long lists into columns
+\usepackage{multicol}
+% Means you don't have to put \\ to start a new line.
+\usepackage[parfill]{parskip}
+% For \hypersetup
+\usepackage{hyperref}
+% For line brakes in tables
+\usepackage{tabularx}
+% Make LaTeX pretty with better kerning etc
+\usepackage{microtype}
+
+\renewcommand\tabularxcolumn[1]{m{#1}}
+\newcolumntype{M}{>{\centering\arraybackslash}m{1cm}}

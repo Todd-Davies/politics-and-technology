@@ -1,0 +1,46 @@
+\documentclass[parskip=half-,parskip=relative]{scrartcl}
+\usepackage{helvet}
+\usepackage{fancyhdr}
+\renewcommand{\familydefault}{\sfdefault}
+
+\input{meta.tex}
+
+% Gives us bigger margins on the right (and smaller on the left) for the margin
+% paragraphs
+\usepackage[left=2cm,
+            top=4cm,
+            right=2cm,
+            bottom=4cm]{geometry}
+
+\begin{document}
+
+\rhead{\title}
+
+\maketitle
+
+\textbf{Declaration of Authorship}
+
+I hereby declare that the thesis submitted is my own unaided work. All
+direct or indirect sources used are acknowledged as references.  I am
+aware that the thesis in digital form can be examined for the use of
+unauthorized aid and in order to determine whether the thesis as a
+whole or parts incorporated in it may be deemed a plagiarism. For the
+comparison of my work with existing sources I agree that it shall be
+entered in a database where it shall also remain after examination, to
+enable comparison with future theses submitted. Further rights of
+reproduction and usage, however, are not granted here.  This paper was
+not previously presented to another examination board and has not been
+published.
+
+\thispagestyle{empty}
+
+\newpage
+
+\tableofcontents
+
+\linespread{1.25}
+\setstretch{1.5}
+
+\input{contents.tex}
+
+\end{document}
